@@ -15,6 +15,7 @@ Includes:
 - Development and interaction recordings
 
 **Tools**: Reality Composer, 3D modeling
+
 *Selected for Apple’s Everyone Can Code Showcase*
 
 ### 🐯 Cute Tiger Firefighter
